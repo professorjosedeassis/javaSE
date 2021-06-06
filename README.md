@@ -14,6 +14,6 @@ Aprenda Java de forma prática e divertida. Este curso também ensina lógica e 
 ## Playlist
 [![Curso básico - Java SE](http://img.youtube.com/vi/srNtqw2LEBU/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx "Playlist")
 ## Material de apoio
-[![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/javabasicoslides.png)](https://www.slideshare.net/josedeassisfilho/java-primeiros-passos "Apresentação dos slides")
+[![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://www.slideshare.net/josedeassisfilho/java-primeiros-passos "Apresentação dos slides")
 ## Bons estudos!
 ![java](https://github.com/professorjosedeassis/java/blob/master/imagens/java.png)
