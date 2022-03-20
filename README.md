@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/professorjosedeassis/mysql)
+![GitHub](https://img.shields.io/github/license/professorjosedeassis/javaSE)
 # Curso - Fundamentos da Linguagem Java
 Aprenda Java de forma prática e divertida. Este curso também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos(as) que desejam iniciar no mundo Java. Este repositório disponibiliza o certificado e o material de apoio deste curso.
 ### Conteúdo
