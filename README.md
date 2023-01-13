@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javaSE)
-# Curso - Fundamentos da Linguagem Java
-Aprenda Java de forma prática e divertida. Este curso também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos(as) que desejam iniciar no mundo Java. Este repositório disponibiliza o certificado e o material de apoio deste curso.
+# Fundamentos da Linguagem Java
+Aprenda Java de forma prática e divertida. Este tutorial também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos(as) que desejam iniciar no mundo Java. Este repositório disponibiliza o certificado e o material de apoio deste tutorial.
 ### Conteúdo
 * Introdução ao Java
 * Ambiente de desenvolvimento
@@ -12,21 +12,21 @@ Aprenda Java de forma prática e divertida. Este curso também ensina lógica e 
 * ROBOCODE
 ### Autor
 Professor José de Assis
-### Apresentação do curso
+### Apresentação
 [![Curso primeiros passos com a Linguagem C](https://img.youtube.com/vi/srNtqw2LEBU/0.jpg)](https://youtu.be/srNtqw2LEBU "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/srNtqw2LEBU?style=social)
 ### Playlist
-[Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
-### Slides do curso
+[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
+### Slides
 [![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://www.slideshare.net/josedeassisfilho/java-primeiros-passos "Apresentação dos slides")
 ### Certificado
 [Iniciar teste](https://forms.gle/xGDz46yvMu3wHJoWA)
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-:heavy_check_mark: Compartilhar os cursos e projetos
+:heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
