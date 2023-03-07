@@ -19,7 +19,7 @@ Professor José de Assis
 ### Playlist
 [Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
 ### Slides
-[![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://www.slideshare.net/josedeassisfilho/java-primeiros-passos "Apresentação dos slides")
+[![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://professorjosedeassis.github.io/javaSE/ "Apresentação dos slides")
 ### Certificado
 [Iniciar teste](https://forms.gle/xGDz46yvMu3wHJoWA)
 ## Como apoiar os tutoriais e projetos?
