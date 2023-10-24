@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javaSE)
 # Tutorial de programação com Java para iniciantes
-Aprenda Java de forma prática e divertida. Este tutorial também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos(as) que desejam iniciar no mundo Java. Este repositório disponibiliza o certificado e o material de apoio deste tutorial.
+Aprenda Java de forma prática e divertida. Este tutorial também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos que desejam iniciar no mundo Java.
 ### Conteúdo
 * Introdução ao Java
 * Ambiente de desenvolvimento
