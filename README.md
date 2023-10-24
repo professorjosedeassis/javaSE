@@ -18,7 +18,7 @@ Professor José de Assis
 ![YouTube Video Views](https://img.shields.io/youtube/views/srNtqw2LEBU?style=social)
 ### Iniciar tutorial
 [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
-### Slides
+### Slide de apoio as aulas
 [![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://professorjosedeassis.github.io/javaSE/ "Apresentação dos slides")
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
