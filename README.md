@@ -16,8 +16,8 @@ Professor José de Assis
 [![Curso primeiros passos com a Linguagem C](https://img.youtube.com/vi/srNtqw2LEBU/0.jpg)](https://youtu.be/srNtqw2LEBU "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/srNtqw2LEBU?style=social)
-### Playlist
-[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
+### Iniciar tutorial
+[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
 ### Slides
 [![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://professorjosedeassis.github.io/javaSE/ "Apresentação dos slides")
 ## Como apoiar os tutoriais e projetos?
