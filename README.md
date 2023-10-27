@@ -21,7 +21,11 @@ Professor José de Assis
 ### Slide de apoio as aulas
 [![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://professorjosedeassis.github.io/javaSE/ "Apresentação dos slides")
 ## Como apoiar os tutoriais e projetos?
-### Você pode:
+### Você pode me pagar um café! ☕
+
+#### Chave PIX:
+` josedeassisfilho@gmail.com `
+### Você também pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
 :heavy_check_mark: Compartilhar os tutoriais e projetos
@@ -34,10 +38,5 @@ Professor José de Assis
 <a href="https://instagram.com/prof.joseassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/instagram.png" alt="prof.joseassis" height="48" width="48" /></a>
 <a href="https://twitter.com/joseassis" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/twitter.png" alt="joseassis" height="48" width="48" /></a>
 </p>
-
-### Você também pode me pagar um café! ☕
-
-### Chave PIX:
-` josedeassisfilho@gmail.com `
 
 ### :smiley: Muito obrigado pelo apoio!
