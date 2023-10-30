@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javaSE)
-# Programação - Java
+# Java para iniciantes
 Aprenda Java de forma prática e divertida. Este curso também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos que desejam iniciar no mundo Java.
 ### Conteúdo
 * Introdução ao Java
