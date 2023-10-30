@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javaSE)
-# Tutorial de programação com Java para iniciantes
-Aprenda Java de forma prática e divertida. Este tutorial também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos que desejam iniciar no mundo Java.
+# Programação - Java
+Aprenda Java de forma prática e divertida. Este curso também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos que desejam iniciar no mundo Java.
 ### Conteúdo
 * Introdução ao Java
 * Ambiente de desenvolvimento
@@ -16,7 +16,7 @@ Professor José de Assis
 [![Curso primeiros passos com a Linguagem C](https://img.youtube.com/vi/srNtqw2LEBU/0.jpg)](https://youtu.be/srNtqw2LEBU "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/srNtqw2LEBU?style=social)
-### Iniciar tutorial
+### Iniciar curso:
 [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
 ### Slide de apoio as aulas
 [![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://professorjosedeassis.github.io/javaSE/ "Apresentação dos slides")
