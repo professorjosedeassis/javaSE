@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/javaSE)
-# Java para iniciantes
+# Programação com Java para iniciantes
 Aprenda Java de forma prática e divertida. Este curso também ensina lógica e programação orientada a objetos(POO) criando uma base sólida a todos que desejam iniciar no mundo Java.
 ### Conteúdo
 * Introdução ao Java
@@ -17,9 +17,11 @@ Professor José de Assis
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/srNtqw2LEBU?style=social)
 ### Iniciar curso:
-[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
-### Slide de apoio as aulas
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxdW98mY-40IZQ5i8ZZyeQx)
+### Slides de apoio as aulas:
 [![Introdução ao Java](https://github.com/professorjosedeassis/javaSE/blob/master/imagens/materialapoio.png)](https://professorjosedeassis.github.io/javaSE/ "Apresentação dos slides")
+### Certificado deste curso:
+🎓 [Iniciar teste](https://docs.google.com/forms/d/e/1FAIpQLScri9iCaDBShqXUvHRb5qp-iVQZvNrDM8P6TLWWdB8IcDBMpQ/viewform)
 ## Como apoiar os tutoriais e projetos?
 ### Você pode me pagar um café! ☕
 
