@@ -13,7 +13,7 @@ Aprenda Java de forma prática e divertida. Este curso também ensina lógica e 
 ### Autor
 Professor José de Assis
 ### Apresentação
-[![Curso primeiros passos com a Linguagem C](https://img.youtube.com/vi/srNtqw2LEBU/0.jpg)](https://youtu.be/srNtqw2LEBU "Asssistir no YouTube")
+[![Curso Programação com Java para iniciantes](https://img.youtube.com/vi/srNtqw2LEBU/0.jpg)](https://youtu.be/srNtqw2LEBU "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/srNtqw2LEBU?style=social)
 ### Iniciar curso:
